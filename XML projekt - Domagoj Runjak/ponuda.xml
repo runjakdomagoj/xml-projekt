@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ponuda.xsl"?>
+
+<Ponuda>
+    <Stvar>
+        <Marka>Intel</Marka>
+        <Model>Core i9 12900K</Model>
+        <Cijena>4000 KN</Cijena>
+    </Stvar>
+    <Stvar>
+        <Marka>Intel</Marka>
+        <Model>Core i7 12700K</Model>
+        <Cijena>3100 KN</Cijena>
+    </Stvar>
+    <Stvar>
+        <Marka>Intel</Marka>
+        <Model>Core i5 12600K</Model>
+        <Cijena>2300 KN</Cijena>
+    </Stvar>
+    <Stvar>
+        <Marka>AMD</Marka>
+        <Model>Ryzen 5 5600X</Model>
+        <Cijena>2300 KN</Cijena>
+    </Stvar>
+    <Stvar>
+        <Marka>AMD</Marka>
+        <Model>Ryzen 7 5800X</Model>
+        <Cijena>2700 KN</Cijena>
+    </Stvar>
+    <Stvar>
+        <Marka>AMD</Marka>
+        <Model>Ryzen 9 5950X</Model>
+        <Cijena>4000 KN</Cijena>
+    </Stvar>
+    <Stvar>
+        <Marka>AMD</Marka>
+        <Model>Ryzen 7 3700X</Model>
+        <Cijena>1800 KN</Cijena>
+    </Stvar>
+    <Stvar>
+        <Marka>Intel</Marka>
+        <Model>Core i3-12100</Model>
+        <Cijena>1000 KN</Cijena>
+    </Stvar>
+    <Stvar>
+        <Marka>Intel</Marka>
+        <Model>Pentium Gold G6405</Model>
+        <Cijena>500 KN</Cijena>
+    </Stvar>
+</Ponuda>
